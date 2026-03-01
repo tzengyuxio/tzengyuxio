@@ -20,7 +20,7 @@ Exploring things I find interesting: **Retro games**, **Hanzi/Kanji**, **Calenda
 - **[Hanjify](https://hanjify.tzengyuxio.me)**: An English "Hanjification" tool mapping English to Hanzi based on etymology or phonetics.
 - **[Koei Kao CG Editor](https://tzengyuxio.me/kaocgeditor/)**: Online editor for browsing and editing portraits in classic Koei games.
 - **[FC Sangokushi Mob-Kao Explorer](https://tzengyuxio.github.io/fc-sangokushi/mob-kao-explorer.html)**: A browser for the procedurally generated generic officer portraits in the Famicom version of *RTK*.
-- **[FHM Cover Project](https://tzengyuxio.me/fhm/)**: A side project archiving and restoring *FHM Taiwan* magazine covers.
+- **[FHM Cover Project](https://bit.ly/fhm-tw-covers)**: A side project archiving and restoring *FHM Taiwan* magazine covers.
 
 #### 📚 Knowledge & Archives
 - **[懷舊圖書館 (Nostalgic Library)](https://nostalibrary.tzengyuxio.me/)**: A collection of resources and research on retro games.

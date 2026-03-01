@@ -20,7 +20,7 @@
 - **[HANJIFY - 英語漢字化工具](https://hanjify.tzengyuxio.me)**：根據詞源或發音將英文單字對應至漢字，創造出一套獨特的書寫系統。
 - **[光榮顏CG編輯器 (Koei Kao CG Editor)](https://tzengyuxio.me/kaocgeditor/)**：線上瀏覽與編輯早期光榮遊戲的人物頭像。
 - **[FC 版三國志大眾臉瀏覽器](https://tzengyuxio.github.io/fc-sangokushi/mob-kao-explorer.html)**：解析紅白機版《三國志》隨機武將頭像組成的組合瀏覽器。
-- **[FHM 封面補完計畫](https://tzengyuxio.me/fhm/)**：針對《FHM 男人幫》台灣版雜誌封面進行存檔與修復的個人計畫。
+- **[FHM 封面補完計畫](https://bit.ly/fhm-tw-covers)**：針對《FHM 男人幫》台灣版雜誌封面進行存檔與修復的個人計畫。
 
 #### 📚 知識庫與存檔
 - **[懷舊圖書館 (Nostalgic Library)](https://nostalibrary.tzengyuxio.me/)**：收集並研究老遊戲資源及其技術細節。
