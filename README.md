@@ -17,10 +17,12 @@ Exploring things I find interesting: **Retro games**, **Hanzi/Kanji**, **Calenda
 ### 🏗️ Projects & Tools
 
 #### 🛠️ Side Projects
-- **[Hanjify](https://hanjify.tzengyuxio.me)**: An English "Hanjification" tool mapping English to Hanzi based on etymology or phonetics.
-- **[Koei Kao CG Editor](https://tzengyuxio.me/kaocgeditor/)**: Online editor for browsing and editing portraits in classic Koei games.
+- **[panimg](https://github.com/tzengyuxio/panimg)**: The Swiss Army knife of image processing — built for humans and AI agents alike.
+- **[Gongheli (共和曆)](https://github.com/tzengyuxio/gongheli)**: A pure solar calendar system with its epoch set at the first year of the Gonghe Regency in the Western Zhou dynasty.
 - **[FC Sangokushi Mob-Kao Explorer](https://tzengyuxio.github.io/fc-sangokushi/mob-kao-explorer.html)**: A browser for the procedurally generated generic officer portraits in the Famicom version of *RTK*.
+- **[Koei Kao CG Editor](https://tzengyuxio.me/kaocgeditor/)**: Online editor for browsing and editing portraits in classic Koei games.
 - **[FHM Cover Project](https://bit.ly/fhm-tw-covers)**: A side project archiving and restoring *FHM Taiwan* magazine covers.
+- **[Hanjify](https://hanjify.tzengyuxio.me)**: An English "Hanjification" tool mapping English to Hanzi based on etymology or phonetics.
 
 #### 📚 Knowledge & Archives
 - **[懷舊圖書館 (Nostalgic Library)](https://nostalibrary.tzengyuxio.me/)**: A collection of resources and research on retro games.
